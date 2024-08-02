@@ -1,0 +1,19 @@
+.boxFriend {
+    padding: 10px;
+}
+
+.img {
+    margin-bottom: 5px;
+}
+
+.name {
+    font-weight: 600;
+}
+
+.colorOnline {
+    color: green;
+}
+
+.colorOffline {
+    color: red;
+}
